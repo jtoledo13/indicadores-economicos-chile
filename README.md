@@ -19,7 +19,6 @@ Permite estadísticas detalladas, gráficos interactivos, correlaciones, detecci
 
 ## 🖼️ Capturas de pantalla
 
-> *(Inserta aquí imágenes de ejemplo de tu app. Usa la ruta assets/ dentro del repositorio para organizarlas)*
 
 1. **Pantalla principal**  
   <img width="1891" height="295" alt="image" src="https://github.com/user-attachments/assets/25b561e5-0172-4ff6-82a2-d19752b64d91" />
